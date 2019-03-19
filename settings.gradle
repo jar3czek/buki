@@ -1,0 +1,4 @@
+rootProject.name = 'buki'
+include 'model'
+include 'infrastructure'
+
