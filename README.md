@@ -28,7 +28,16 @@ _Jako właściciel internetowego zakładu bukmacherskiego_ <br />
 _chcę aby gracz mógł zasilić swoje konto Euro Golami_ <br />
 _tak aby w przyszłości móc wykupić zakład._ <br />
 
-Cały proces zakupu Euro Goli realizowany jest przez zewnętrzną firmę, jedyne co trzeba zrobić to udostępnić możliwość przyjęcia informacji od zewnętrznego partnera o ilości zakupionych przez gracza Euro Goli. 
+Cały proces zakupu Euro Goli realizowany jest przez zewnętrzną firmę, jedyne co trzeba zrobić to udostępnić możliwość przyjęcia informacji od zewnętrznego partnera o ilości zakupionych przez gracza Euro Goli.
+
+Powiadomienie SMS o zakupie Euro Goli
+-------------------------------------
+
+_Jako właściciel internetowego zakładu bukmacherskiego_ <br />
+_chcę aby klient po zakupie Euro Goli wiedział, że może już dokonywać zakładów_ <br />
+_po to żeby klienci chętnie dokonywali zakupów._ <br />
+
+Po przyjęciu informacji o zakupie Euro Goli od partnera wysyłamy sms na numer telefonu podpięty do konta gracza. W przyszłości pewnie będziemy chcieli dodać inne kanały takie jak np email. 
 
 Zakup zakładu
 -------------
@@ -39,16 +48,6 @@ _po to żeby zdobyć wygraną._ <br />
 
 Zakład może być na dowolną kwotę, zakład może składać się z jednego lub wielu wydarzeń sportowych. Gracz nie może kupić zakładu za większą ilość Euro Goli niż ma obecnie na koncie. Wydarzenia sportowe są wprowadzane ręcznie bezpośrednio do bazy danych systemu przez wysoko wykwalifikowanego pracownika firmy bukmacherskiej.
 
-Udzielanie kredytu
-------------------
-
-_Jako właściciel internetowego zakładu bukmacherskiego_ <br />
-_chcę aby klient VIP mógł kupić zakład w sytuacji gdy nie ma wystarczającej ilości Euro Goli na koncie_ <br />
-_po to żeby utrzymywać dobre relacje z lojalnymi klientami._ <br />
-
-Wiadomo, że kontrola jest podstawą zaufania a więc nawet klient VIP powinien mieć limit dostępnego kredytu. Dobrze żeby limit był sprawą indywidualną, limit może ale nie musi być nadpisany dla wybranych klientów VIP (np. znajomych prezesa). Domyślny limit dla wszystkich klientów VIP to 1000 Euro Goli.
-
-
 Przegląd zakładów
 -----------------
 
@@ -58,14 +57,14 @@ _tak aby śledzić odpowiednie wydarzenia sportowe._ <br />
 
 Ze względu na bardzo wysoki koszt rozwoju części frontend platformy na razie gracz może wygenerować zestawienie swoich zakładów które po pewnym czasie przyjdzie jako załącznik wiadomości na adres email zarejestrowany w jego koncie. Odpowiednio wygenerowany raport należy zapisać w formie pliku csv na zasobie sieciowym. Raz dziennie wysoko wykwalifikowany pracownik biura bukmacherskiego będzie odczytywał pliki z zasobu i wysyłał ręcznie maile do klientów. Plik ma nazywać się tak jak adres email na który należy wysłać raport.
 
-Powiadomienie SMS o zakupie Euro Goli
--------------------------------------
+Udzielanie kredytu
+------------------
 
 _Jako właściciel internetowego zakładu bukmacherskiego_ <br />
-_chcę aby klient po zakupie Euro Goli wiedział, że może już dokonywać zakładów_ <br />
-_po to żeby klienci chętnie dokonywali zakupów._ <br />
+_chcę aby klient VIP mógł kupić zakład w sytuacji gdy nie ma wystarczającej ilości Euro Goli na koncie_ <br />
+_po to żeby utrzymywać dobre relacje z lojalnymi klientami._ <br />
 
-Po przyjęciu informacji o zakupie Euro Goli od partnera wysyłamy sms na numer telefonu podpięty do konta gracza. W przyszłości pewnie będziemy chcieli dodać inne kanały takie jak np email.
+Wiadomo, że kontrola jest podstawą zaufania a więc nawet klient VIP powinien mieć limit dostępnego kredytu. Dobrze żeby limit był sprawą indywidualną, limit może ale nie musi być nadpisany dla wybranych klientów VIP (np. znajomych prezesa). Domyślny limit dla wszystkich klientów VIP to 1000 Euro Goli.
 
 Rozliczenie zakładu
 -------------------
