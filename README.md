@@ -46,7 +46,7 @@ _Jako gracz_ <br />
 _chcę mieć możliwość zakupu zakładu_ <br />
 _po to żeby zdobyć wygraną._ <br />
 
-Zakład może być na dowolną kwotę, zakład może składać się z jednego lub wielu wydarzeń sportowych. Gracz nie może kupić zakładu za większą ilość Euro Goli niż ma obecnie na koncie. Wydarzenia sportowe są wprowadzane ręcznie bezpośrednio do bazy danych systemu przez wysoko wykwalifikowanego pracownika firmy bukmacherskiej.
+Zakład może być na dowolną kwotę, zakład może składać się z jednego lub wielu wydarzeń sportowych. Każde wydarzenie sportowe możemy obstawić w trzech wariantach: zwycięstwo gospodarzy, zwycięstwo gości, remis. Gracz nie może kupić zakładu za większą ilość Euro Goli niż ma obecnie na koncie. Wydarzenia sportowe są wprowadzane ręcznie bezpośrednio do bazy danych systemu przez wysoko wykwalifikowanego pracownika firmy bukmacherskiej.
 
 Przegląd zakładów
 -----------------
