@@ -37,6 +37,7 @@ body:
         "euroGoals": int value
     }
  
+```
 
 Wprowadzenie wydarzeń sportowych
 --------------------------------
