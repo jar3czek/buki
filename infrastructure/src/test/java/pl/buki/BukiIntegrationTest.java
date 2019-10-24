@@ -3,10 +3,10 @@ package pl.buki;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class BukiIntegrationTest {
+class BukiIntegrationTest {
 
     @Test
-    public void shouldDoSthInIntegrationWithInfrastructure() {
+    void shouldDoSthInIntegrationWithInfrastructure() {
         //given
 
         //when

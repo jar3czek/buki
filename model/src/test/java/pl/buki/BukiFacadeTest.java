@@ -3,10 +3,10 @@ package pl.buki;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class BukiFacadeTest {
+class BukiFacadeTest {
 
     @Test
-    public void shouldDoSth() {
+    void shouldDoSth() {
         //given
 
         //when
