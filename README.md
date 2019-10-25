@@ -47,7 +47,13 @@ _Jako właściciel internetowego zakładu bukmacherskiego_ <br />
 _chcę aby wysoko wykwalifikowany pracownik zakładu mógł wprowadzić wydarzenia sportowe do systemu_ <br />
 _po to żeby klienci mogli kupować zakłady_ <br />
 
-Wydarzenia sportowe powinny znaleźć się w relacyjnej bazie danych. Wydarzenia sportowe to tylko dane słownikowe, ich wprowadzanie nie zawiera żadnej wyrafinowanej logiki.  
+Wydarzenia sportowe powinny znaleźć się w relacyjnej bazie danych. Wydarzenia sportowe to tylko dane słownikowe, ich wprowadzanie nie zawiera żadnej wyrafinowanej logiki.
+Wydarzenie składa się z:
+- unikalne id wydarzenia
+- nazwa wydażenia
+- drużyna gospodarzy
+- drużyna gości
+- data rozpoczęcia  
 
 Zakup zakładu
 -------------
