@@ -82,7 +82,7 @@ _Jako gracz_ <br />
 _chcę aby mój zakład został rozliczony_ <br />
 _tak abym mógł odebrać należną mi nagrodę._ <br />
 
-Jeżeli petent zjawi się w stacjonarnym oddziale firmy i poprosi o rozliczenie zakładu wówczas wysoko wykwalifikowany pracownik zakładu musi mieć możliwość po numerze zakładu sprawdzić na jakie wydarzenia był zakład po to by ręcznie sprawdzić ich wynik i jeżeli wszystkie wydarzenia zakończyły się zgodnie z przewidywaniem petenta wówczas pracownik wręcza petentowi ilość pieniędzy odpowiadającą ilości Euro Goli na zakładzie. 
+Jeżeli petent zjawi się w stacjonarnym oddziale firmy i poprosi o rozliczenie zakładu wówczas wysoko wykwalifikowany pracownik zakładu musi mieć możliwość po numerze zakładu sprawdzić na jakie wydarzenia był zakład po to by ręcznie sprawdzić ich wynik i jeżeli wszystkie wydarzenia zakończyły się zgodnie z przewidywaniem petenta wówczas pracownik wręcza petentowi wygraną. Kwota wygranej jest na ten moment obliczana w sposób tradycyjny przez wysoko wykwalifikowanego pracownika zakładu. 
 Aby nie doszło do wyłudzeń po wypłaceniu gotówki pracownik ma mieć możliwość oznaczenia zakładu jako “rozliczono”.  W sytuacji gdy petent jeszcze raz poprosi o rozliczenie rozliczonego już zakładu system powinien od razu poinformować operatora o tym, że zakład o danym numerze jest już rozliczony tak aby operator ponownie nie tracił czasu na analizę wyników wydarzeń sportowych.
 
 Udzielanie kredytu
