@@ -73,7 +73,7 @@ _Jako gracz_ <br />
 _chcę mieć możliwość przejrzenia moich zakładów_ <br />
 _tak aby śledzić odpowiednie wydarzenia sportowe._ <br />
 
-Wystaw REST API dla aplikacji front do przeglądania przejazdów przez gracza, api powinno mieć możliwość stronicowania i sortowania.
+Wystaw REST API dla aplikacji front do przeglądania zakładów zakupionych przez gracza, api powinno mieć możliwość stronicowania i sortowania.
 
 Rozliczenie zakładu
 -------------------
