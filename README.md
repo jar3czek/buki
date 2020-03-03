@@ -40,17 +40,6 @@ body:
  
 ```
 
-Zakup zakładu
--------------
-
-_Jako gracz_ <br />
-_chcę mieć możliwość zakupu zakładu_ <br />
-_po to żeby zdobyć wygraną._ <br />
-
-Zakład może być na dowolną kwotę, zakład może składać się z jednego lub wielu wydarzeń sportowych. Każde wydarzenie sportowe możemy obstawić w trzech wariantach: zwycięstwo gospodarzy, zwycięstwo gości, remis. Gracz nie może kupić zakładu za większą ilość Euro Goli niż ma obecnie na koncie.
-Nie można obstawiać zakładu na wydarzenia które już trwają.
-Zakup zakładu zdejmuje z konta gracza odpowiednią ilość euro goli.
-
 Wprowadzenie wydarzeń sportowych
 --------------------------------
 
@@ -65,6 +54,17 @@ Wydarzenie składa się z:
 - drużyna gospodarzy
 - drużyna gości
 - data rozpoczęcia  
+
+Zakup zakładu
+-------------
+
+_Jako gracz_ <br />
+_chcę mieć możliwość zakupu zakładu_ <br />
+_po to żeby zdobyć wygraną._ <br />
+
+Zakład może być na dowolną kwotę, zakład może składać się z jednego lub wielu wydarzeń sportowych. Każde wydarzenie sportowe możemy obstawić w trzech wariantach: zwycięstwo gospodarzy, zwycięstwo gości, remis. Gracz nie może kupić zakładu za większą ilość Euro Goli niż ma obecnie na koncie.
+Nie można obstawiać zakładu na wydarzenia które już trwają.
+Zakup zakładu zdejmuje z konta gracza odpowiednią ilość euro goli.
 
 Przegląd zakładów
 -----------------
