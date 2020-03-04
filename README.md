@@ -31,7 +31,7 @@ Cały proces zakupu Euro Goli realizowany jest przez zewnętrzną firmę, jedyne
 Ustaliliśmy kontrakt pomiędzy nami a partnerem, będzie to REST api:
 ```
 request type: POST
-api: /players/{playerId}/founds
+api: /players/{playerId}/funds
 media type: application/json
 body: 
     {
